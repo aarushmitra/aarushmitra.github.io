@@ -45,8 +45,8 @@
     </header>
     <div class="container">
         <img src="profile.jpg" alt="Profile Picture">
-        <h1>Your Name</h1>
-        <p>Hi! I'm a [your profession/hobby]. I love [something about you]. Welcome to my page!</p>
+        <h1>Aarush Mitra</h1>
+        <p>Hi! I'm a Physics student. I love a lot of things. Welcome to my page!</p>
         <div class="social-links">
             <a href="https://github.com/yourusername">GitHub</a>
             <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
